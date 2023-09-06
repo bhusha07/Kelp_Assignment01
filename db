@@ -1,0 +1,10 @@
+CREATE TABLE data_DB.users (
+name varchar(50) NOT NULL, 
+age int(5) NOT NULL,
+address json NULL,
+additional_info json NULL,
+id INT PRIMARY KEY AUTO_INCREMENT
+);
+
+
+

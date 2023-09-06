@@ -1,0 +1,5 @@
+name.firstname,name.lastname,age,address.line1,address.line2,address.line3,address.line4,role,gender
+bhushan,desale,16,murbad,thane,mah,IND,fullstack,male
+nishant,pagare,14,bandra,mumbai,mah,IND,android,male
+ujwal,chaudhari,15,hinjewadi,pune,mah,IND,prompt,male
+mahesh,kale,15,kothrud,pune,mah,IND,dev,male
